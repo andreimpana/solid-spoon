@@ -61,7 +61,8 @@ with open(infile, 'r') as fp:
         for j in txtarr[i]:
             h[i][j-1] = prob
 # Create hyperlink matrix from file
-    
+
+#Yo    
 
 # Stochasticity adjustment
 e = np.array([[1] for x in range(num_sites)])
